@@ -7,7 +7,7 @@ require (
 	github.com/jinzhu/gorm v1.9.12
 	github.com/lib/pq v1.2.0
 	github.com/signalfx/signalfx-go-tracing v1.7.0
-	github.com/signalfx/signalfx-go-tracing/contrib/database/sql v1.7.0
+	github.com/signalfx/signalfx-go-tracing/contrib/database/sql v1.12.0
 )
 
 replace (
