@@ -6,8 +6,8 @@ require (
 	github.com/signalfx/signalfx-go-tracing v1.7.0
 	github.com/signalfx/signalfx-go-tracing/contrib/net/http v1.7.0
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	google.golang.org/api v0.21.0
+	golang.org/x/oauth2 v0.0.0-20221006150949-b44042a4b9c1
+	google.golang.org/api v0.99.0
 )
 
 replace (
